@@ -1,8 +1,10 @@
 body{
   background:hsl( 0, 0%, 95%);
   font-family: "Lexend Deca", sans-serif;
-  margin-top:20px;
   padding:4px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
   font-weight: 400;
 }
 main{
